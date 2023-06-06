@@ -6,7 +6,7 @@ The purpose of this tutorial is to take you through a range of core ML technique
 
 ### Use vscode on github (codespace)
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/theopinard/mlflow-training/tree/tutorial?quickstart=1)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/AndreasVarotsis/python-ml-workshop/tree/tutorial?quickstart=1)
 
 If you are using windows or do not want to install vscode on your machine, you can click on the badge above to spin up a codespace environment. 
 
